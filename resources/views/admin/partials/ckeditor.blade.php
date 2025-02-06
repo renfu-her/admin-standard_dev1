@@ -9,7 +9,7 @@
 @endpush
 
 @push('scripts')
-    <script src="{{ asset('ckeditor5/zh.min.js') }}"></script>
+    <script src="{{ asset('ckeditor5/zh.umd.js') }}"></script>
 
     <script type="importmap">
         {
